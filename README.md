@@ -2,7 +2,7 @@
 
 
 ### 📝 About
-I am an Computer Engineering student at Instituto Militar de Engenharia (IME), and I work as a web developer since April of 2021.
+I am a Computer Engineering student at Instituto Militar de Engenharia (IME), and I work as a web developer since April of 2021.
 I am constantly learning about new technologies and different areas trying to improve my work's quality.
 
 ### Connect with me:
