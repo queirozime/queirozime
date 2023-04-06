@@ -33,7 +33,9 @@ I am constantly learning about new technologies and different areas trying to im
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/images/AWS.jpeg" />][webdevplaylist]
 
 
-[<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queirozime" alt="queirozime" /></p>]
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queirozime" alt="queirozime" /></p>
 
 
 [instagram]: https://instagram.com/henriccoqueiroz
