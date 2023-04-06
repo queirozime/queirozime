@@ -34,6 +34,8 @@ I am constantly learning about new technologies and different areas trying to im
 
 
 <br>
+<br>
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queirozime" alt="queirozime" /></p>
 
