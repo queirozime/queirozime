@@ -14,9 +14,9 @@ I am constantly learning about new technologies and different areas trying to im
 ### 🚀 Some Status
 <img src="https://github-readme-stats.vercel.app/api?username=queirozime&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
-### 🔝 Languages & Technologies
+<!-- ### 🔝 Languages & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozime" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=queirozime" /> -->
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
